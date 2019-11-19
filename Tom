@@ -3,3 +3,4 @@
 class Tom:
     def __init__(self):
         ......
+    print("hello Word")
